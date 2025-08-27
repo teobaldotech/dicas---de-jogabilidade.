@@ -38,3 +38,38 @@ Participe de sorteios em grupos confiáveis (sempre verifique se são oficiais).
 Crie roupas ou acessórios: se você tiver acesso ao Roblox Studio, pode vender itens e ganhar Robux.
 
 Jogue e divulgue jogos próprios: desenvolvedores podem monetizar seus jogos com passes e itens pagos.
+
+Escolha jogos com XP generoso
+Nem todo jogo recompensa bem o tempo jogado. Alguns dos melhores para subir de nível rápido são:
+
+Arsenal: partidas rápidas e muito XP por eliminação.
+
+Adopt Me!: eventos e tarefas diárias rendem bastante experiência.
+
+Bloxburg: trabalhar e interagir com outros jogadores acelera o progresso.
+
+
+🎯 2. Foque em missões e desafios
+Priorize missões diárias e semanais — elas costumam dar mais XP que ações comuns.
+
+Complete objetivos secundários: coletar itens, explorar áreas, interagir com NPCs.
+
+🧠 3. Jogue com estratégia
+Sessões longas e consistentes são mais eficazes que jogadas curtas e aleatórias.
+
+Divida seu tempo entre exploração, combate e upgrades — isso equilibra o ganho de XP.
+
+🛡️ 4. Use boosts e grupos
+Alguns grupos no Roblox oferecem bônus de XP para membros.
+
+Se tiver Roblox Premium, você pode desbloquear vantagens extras como boosts de XP e acesso antecipado a eventos.
+
+🎁 5. Aproveite eventos e atualizações
+Fique de olho em eventos temporários: eles costumam dobrar o XP ou liberar itens raros.
+
+Jogos atualizados com frequência geralmente têm novas formas de subir de nível.
+
+🐟 6. Em jogos como Fisch (simulador de pesca), otimize seus equipamentos
+Melhore suas varas de pesca e escolha os melhores locais para capturar peixes raros.
+
+Use encantamentos e varas especiais para maximizar o XP por captura

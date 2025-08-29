@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Como Sobreviver em DOORS</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #121212;
+      color: #f0f0f0;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #ff4500;
+    }
+    section {
+      background-color: #1f1f1f;
+      border-radius: 8px;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 12px #ff4500aa;
+    }
+    ul {
+      margin-top: 10px;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .emoji {
+      font-size: 1.3em;
+      margin-right: 8px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #aaa;
+    }
+    .topo {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #ff4500;
+      color: #fff;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 0 10px #ff4500aa;
+    }
+  </style>
+</head>
+<body>
+
+<h1><span class="emoji">🧠</span>Como Sobreviver em DOORS: Dicas para Não Ser Engolido Pelo Terror</h1>
+<p><em>Publicado em 29 de agosto de 2025 por Teobaldo</em></p>
+
+<section>
+  <h2><span class="emoji">⚠️</span>Entenda os Inimigos</h2>
+  <ul>
+    <li><strong>Rush</strong>: Você ouve um som de aproximação. Corra para o armário mais próximo!</li>
+    <li><strong>Ambush</strong>: Parece o Rush, mas volta várias vezes. Espere ele passar duas ou três vezes antes de sair do esconderijo.</li>
+    <li><strong>Screech</strong>: Aparece quando você está em salas escuras. Se ouvir “psst!”, olhe rapidamente em volta.</li>
+    <li><strong>Figure</strong>: Na biblioteca, ele é cego mas ouve tudo. Ande agachado e evite fazer barulho.</li>
+  </ul>
+</section>
+
+<section>
+  <h2><span class="emoji">🎧</span>Use Fones de Ouvido</h2>
+  <p>O som é seu maior aliado. Muitos perigos são anunciados por áudio antes de aparecerem. Fones ajudam a identificar a direção e o tipo de ameaça.</p>
+</section>
+
+<section>
+  <h2><span class="emoji">🗝️</span>Explore com Calma (mas não devagar demais)</h2>
+  <ul>
+    <li>Vasculhe gavetas e armários para encontrar vitaminas, chaves e isqueiros.</li>
+    <li>Mas cuidado: ficar muito tempo em uma sala pode ativar o <strong>Halt</strong> ou o <strong>Eyes</strong>.</li>
+  </ul>
+</section>
+
+<section>
+  <h2><span class="emoji">🚪</span>Dica de Ouro: Conte as Portas</h2>
+  <p>Algumas entidades aparecem em portas específicas (como a 50 e a 100). Saber quando elas estão chegando te prepara para o que vem.</p>
+</section>
+
+<section>
+  <h2><span class="emoji">🧩</span>Jogue em Equipe (se possível)</h2>
+  <p>DOORS pode ser jogado em grupo. Ter amigos ajuda a dividir tarefas: um procura chave, outro vigia armários, outro cuida da lanterna. E claro, rir junto quando todo mundo morre na mesma sala.</p>
+</section>
+
+<section>
+  <h2><span class="emoji">🎮</span>Conclusão</h2>
+  <p>Sobreviver em DOORS não é só reflexo — é estratégia. Quanto mais você joga, mais percebe os padrões e aprende a antecipar os sustos. E lembre-se: morrer faz parte. Cada tentativa te deixa mais preparado para a próxima.</p>
+  <p>Boa sorte... e cuidado com o Rush. 😈</p>
+</section>
+
+<footer>
+  <p>Gostou do post? Compartilhe com seus amigos e volte sempre para mais dicas! 🎯</p>
+</footer>
+
+<button class="topo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">⬆️ Topo</button>
+
+</body>
+</html>
